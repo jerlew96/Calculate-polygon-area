@@ -1,6 +1,6 @@
-#include
-#include
-#include
+#include <iostram>
+#include <vector>
+#include <string>
 #include "Polygon.h"
 
 bool Point::isFloat(const std::string& str)
